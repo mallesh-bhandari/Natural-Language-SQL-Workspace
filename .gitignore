@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database (optional: you can keep northwind.db so recruiters can run it instantly without running setup_db.py)
+# northwind.db
